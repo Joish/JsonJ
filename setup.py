@@ -1,8 +1,8 @@
 from distutils.core import setup
 setup(
-  name = 'JsonParser',         # How you named your package folder (MyLib)
-  packages = ['JsonParser'],   # Chose the same as "name"
-  version = '0.1',      # Start with a small number and increase it with every change you make
+  name = 'JsonJ',         # How you named your package folder (MyLib)
+  packages = ['JsonJ'],   # Chose the same as "name"
+  version = '0.1.2',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'A library to prase Json Tree data in-order to make things simpler',   # Give a short description about your library
   author = 'Joish J Bosco',                   # Type in your name

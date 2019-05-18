@@ -5,7 +5,7 @@ Created on Sat May 18 11:48:29 2019
 @author: Joish
 """
 
-class JsonParser():
+class JsonJ():
     
     # Constructor 
     def __init__(self,data):
