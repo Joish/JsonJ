@@ -16,7 +16,9 @@ $ pip3 install JsonJ
 
 
 ```sh
+from JsonJ import JsonJ 
 
+json = JsonJ(<sample_data>)
 ```
 
 ### Development
