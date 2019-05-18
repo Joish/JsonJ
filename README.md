@@ -9,7 +9,7 @@ Json Parser is a simple Python Library that allows parse Compilcated Nested Json
 
 
 ```sh
-$ pip3 install JsonParser
+$ pip3 install 
 ```
 
 ### Development
