@@ -1,1 +1,1 @@
-from JsonJ.JsonJ.JsonJ import JsonJ
+from JsonJ.JsonJ import JsonJ
