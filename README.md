@@ -9,7 +9,14 @@ Json Parser is a simple Python Library that allows parse Compilcated Nested Json
 
 
 ```sh
-$ pip3 install 
+$ pip3 install JsonJ
+```
+
+### Usage
+
+
+```sh
+
 ```
 
 ### Development
@@ -21,7 +28,7 @@ All you have to do is a Pull Rrequest and start Working
 
  - Search by node
  - Search by value
- - etc
+ - And a lot has to be done
 
 License
 ----
