@@ -1,15 +1,15 @@
 Metadata-Version: 2.1
 Name: JsonJ
-Version: 0.1.4
+Version: 0.1.5
 Summary: A library to prase Json Tree data in-order to make things simpler
 Home-page: https://github.com/Joish/JsonParser
 Author: Joish J Bosco
 Author-email: joishbosco99@gmail.com
 License: MIT
-Download-URL: https://github.com/Joish/JsonParser/archive/v_0.1.4.tar.gz
-Description: # JSON Parser
+Download-URL: https://github.com/Joish/JsonJ/archive/v_0.1.5.tar.gz
+Description: # JSONJ
         
-        Json Parser is a simple Python Library that allows parsing Complicated Nested Json tree to a Simple Json data.
+        JsonJ is a simple Python Library that allows parsing Complicated Nested Json tree to a Simple Json data.
         This Library allows converting Complicated Nested Json Data to an Intermediate Simple Json Data, which make it easier to process the original data.
         
         ### Example Data Conversion
