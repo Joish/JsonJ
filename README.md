@@ -1,6 +1,6 @@
 # JSONJ
 
-Json Parser is a simple Python Library that allows parsing Complicated Nested Json tree to a Simple Json data.
+JsonJ is a simple Python Library that allows parsing Complicated Nested Json tree to a Simple Json data.
 This Library allows converting Complicated Nested Json Data to an Intermediate Simple Json Data, which make it easier to process the original data.
 
 ### Example Data Conversion
