@@ -18,7 +18,7 @@ setuptools.setup(
   author = 'Joish J Bosco',                   # Type in your name
   author_email = 'joishbosco99@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/Joish/JsonParser',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/Joish/JsonJ/archive/v_0.1.5.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/Joish/JsonJ/archive/v_0.1.6.tar.gz',    # I explain this later on
   keywords = ['Python 3', 'Json', 'Tree','Tree Traversal', 'Recursive'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           
