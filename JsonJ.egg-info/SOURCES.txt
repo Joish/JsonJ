@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+JsonJ.egg-info/PKG-INFO
+JsonJ.egg-info/SOURCES.txt
+JsonJ.egg-info/dependency_links.txt
+JsonJ.egg-info/top_level.txt
+jsonj/JsonJ.py
+jsonj/__init__.py
